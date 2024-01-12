@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @haris-rathore
+- 👀 I’m interested in Data Science and machine learning.
+- 🌱 I’m currently learning data science.
+- 💞️ I’m looking to collaborate on data science.
+- 😄 Pronouns: he/him
